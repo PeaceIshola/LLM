@@ -4,7 +4,7 @@ This repository contains hands-on projects to learn about Large Language Models 
 
 ## Project Structure
 
-### Project 1: LLM Playground ✅ DONE
+### LLM Playground
 **Location:** `llm_playground/`
 
 The LLM Playground has been converted from Jupyter notebook to modular Python files for easier reusability and integration.
